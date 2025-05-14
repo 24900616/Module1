@@ -1,5 +1,10 @@
 # Conditional Statements in Python: Even or Odd Checker
 
+NAME: Swetha K
+
+REG NO: 212224230284
+
+
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
 
