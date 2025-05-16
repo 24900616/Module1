@@ -36,3 +36,4 @@ print('d:',d)
 ![Screenshot 2025-05-14 050911](https://github.com/user-attachments/assets/d39c3a9d-9cea-477c-980c-504d3193ad1c)
 
 ## Result
+Thus the Program executed Successfully.
